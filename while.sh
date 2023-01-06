@@ -2,7 +2,7 @@
 
 # Basic while
 
-speed=30
+speed=40
 
 while [ $speed -lt 130 ]
 do
@@ -15,3 +15,4 @@ do
 		echo " You shall not pass. your speed is $speed"
 	fi
 done
+# Learning-path while
